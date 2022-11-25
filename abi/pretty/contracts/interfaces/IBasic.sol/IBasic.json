@@ -1,0 +1,6 @@
+[
+  "function addTwoValues(uint256,uint256)",
+  "function getNumber() returns (uint256)",
+  "function getString() returns (string)",
+  "function saveStructToMap(tuple(string,string))"
+]

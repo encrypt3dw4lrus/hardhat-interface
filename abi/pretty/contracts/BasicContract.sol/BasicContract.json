@@ -1,0 +1,9 @@
+[
+  "function addTwoValues(uint256,uint256)",
+  "function getInterface() pure returns (bytes4)",
+  "function getNumber() pure returns (uint256)",
+  "function getString() pure returns (string)",
+  "function keyValueMap(string) view returns (string)",
+  "function saveStructToMap(tuple(string,string))",
+  "function supportsInterface(bytes4) view returns (bool)"
+]
